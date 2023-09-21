@@ -1,3 +1,3 @@
 yang aselik ada di naufalalief/furnivul. <br/>
 ini hanya copian sadja. <br/>
-preview <a href="naufalalief.github.io/landing-page-skillpathEd" target="_blank"> sini </a> 
+preview <a href="https://naufalalief.github.io/landing-page-skillpathEd/" target="_blank"> sini </a> 
